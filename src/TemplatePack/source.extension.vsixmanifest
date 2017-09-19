@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="9E45D532-EC02-46B7-B284-867B628F7461" Version="1.1" Language="en-US" Publisher="mustafasaeed" />
         <DisplayName>Identity Server Template Pack</DisplayName>
-        <Description xml:space="preserve">My Custom Project Template. Created with SideWaffle</Description>
+        <Description xml:space="preserve">This template help you start developing apps faster using Identity Server4 as your STS.</Description>
         <MoreInfo>https://github.com/mustafasaaed/IdentityServerTemplatePack</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>project-icon.png</Icon>
