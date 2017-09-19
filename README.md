@@ -10,7 +10,8 @@ Identity Server Template Pack is a visual stuido template that helps you to star
 
 OK now,How do i get started? 
 
- First things first, we need to install the template pack so head to [VS Marketplace](https://marketplace.visualstudio.com/items?  itemName=mustafasaeed.IdentityServerTemplatePack) and download the vsix file then close all visual studio instances and run the vsix.
+ First things first, we need to install the template pack so head to 
+ [VS market place](https://marketplace.visualstudio.com/items?itemName=mustafasaeed.IdentityServerTemplatePack)  and download the vsix file then close all visual studio instances and run the vsix.
 
  
 ## The fun part.
