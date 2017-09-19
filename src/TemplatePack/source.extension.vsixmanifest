@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="B6569181-D5EF-419C-B54D-75E81DC67D0B" Version="1.0" Language="en-US" Publisher="Mustafa Saeed" />
+        <Identity Id="9E45D532-EC02-46B7-B284-867B628F7461" Version="1.1" Language="en-US" Publisher="mustafasaeed" />
         <DisplayName>Identity Server Template Pack</DisplayName>
-        <Description xml:space="preserve">This template help you start developing apps faster using Identity server.This </Description>
+        <Description xml:space="preserve">My Custom Project Template. Created with SideWaffle</Description>
+        <MoreInfo>https://github.com/mustafasaaed/IdentityServerTemplatePack</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>project-icon.png</Icon>
-        <Tags>aspnetcore, IdentityServer4, Auth, OpenID</Tags>
+        <PreviewImage>identityserver-logo.jpg</PreviewImage>
+        <Tags>identityServer4,Auth, openid,Entity Framework Core, aspnet core, </Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />
