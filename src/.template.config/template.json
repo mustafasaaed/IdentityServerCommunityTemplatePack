@@ -1,0 +1,30 @@
+{
+  "author": "Mustafa Saeed",
+  "classifications": [],
+  "description": "template description",
+  "name": "Identity Server",
+  "defaultName": "IdentityServer",
+  "identity": "IdentityServer.CSharp",
+  "groupIdentity": "IdentityServer",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "shortName": "IdentityServer",
+  "sourceName": "QuickstartIdentityServer",
+  "guids": [],
+  "primaryOutputs": [
+    {
+      "path": "QuickstartIdentityServer\\QuickstartIdentityServer.csproj"
+    },
+    {
+      "path": "MvcClient\\MvcClient.csproj"
+    },
+    {
+      "path": "Client\\Client.csproj"
+    },
+    {
+      "path": "Api\\Api.csproj"
+    }
+  ]
+}
