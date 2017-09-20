@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="9E45D532-EC02-46B7-B284-867B628F7461" Version="1.1" Language="en-US" Publisher="mustafasaeed" />
-        <DisplayName>Identity Server Template Pack</DisplayName>
+        <DisplayName>Identity Server Community Template Pack</DisplayName>
         <Description xml:space="preserve">This template help you start developing apps faster using Identity Server4 as your STS.</Description>
         <MoreInfo>https://github.com/mustafasaaed/IdentityServerTemplatePack</MoreInfo>
         <License>LICENSE.txt</License>
