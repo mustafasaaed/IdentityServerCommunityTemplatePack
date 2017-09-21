@@ -4,7 +4,14 @@ Ok, The question is What is Identity Server Community Template Pack?
 Identity Server Community Template Pack is a visual stuido template that helps you to start developing apps faster using the [identity Server 4](https://github.com/IdentityServer/IdentityServer4).
 
 
- This template basically will generate four projects, these projects are based on the code in the identity server4 [docs](http://docs.identityserver.io/en/release/quickstarts/8_entity_framework.html)
+This template basically will generate four projects, these projects are based on the code in the identity server4 [docs](http://docs.identityserver.io/en/release/quickstarts/8_entity_framework.html)
+
+Template Pack:        
+
+<img src="https://identityservercommunitytemplatepack.visualstudio.com/_apis/public/build/definitions/bcf6a5e9-7f22-407d-94e0-dd7126078ab2/3/badge"/>
+
+Project Templates:  
+<img src="https://identityservercommunitytemplatepack.visualstudio.com/_apis/public/build/definitions/bcf6a5e9-7f22-407d-94e0-dd7126078ab2/2/badge"/>
 
 ## Getting Started
 
