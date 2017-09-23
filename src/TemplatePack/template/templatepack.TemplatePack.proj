@@ -7,9 +7,9 @@
           Condition=" '$(TemplatePackPropsFilePath)' != '' and Exists('$(TemplatePackPropsFilePath)') " />
 
   <PropertyGroup Label="TemplatePackInfo">
-    <Authors>Your name here</Authors>
-    <Description>A description for your template pack</Description>
-    <Version>1.0.0</Version>
+    <Authors>mustafasaeed</Authors>
+    <Description>This template help you start developing apps faster using Identity Server4 as your STS.</Description>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Label="PackageConfiguration">
@@ -26,7 +26,8 @@
     <ExcludeFromPackage Include="$(TemplateSourceRoot)**/.vs/**/*" />
     <ExcludeFromPackage Include="$(TemplateSourceRoot)**/.git/**/*" />
     <ExcludeFromPackage Include="$(TemplateSourceRoot)**/packages/**/*" />
-
+    <ExcludeFromPackage Include="$(TemplateSourceRoot)TempPack/**/*" />
+    
     <TemplateFiles  Include="$(TemplateSourceRoot)/**/*" 
                     Exclude="@(ExcludeFromPackage)" />
   </ItemGroup>
