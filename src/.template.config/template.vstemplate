@@ -5,7 +5,9 @@
     <Description>This template help you start developing apps faster using Identity Server4 as your STS</Description>
     <TemplateID>IdentityServerEFTemplate.CSharp</TemplateID>
     <DefaultName>IdentityServerEFTemplate</DefaultName>
+    
     <Icon>project-icon.png</Icon>
+    
     <ProjectType>CSharp</ProjectType>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
     <SortOrder>5000</SortOrder>
@@ -19,8 +21,8 @@
     <CustomParameters>
       <CustomParameter Name = "$language$" Value="CSharp" />
       <CustomParameter Name = "$uistyle$" Value="none"/>
-      <CustomParameter Name = "$groupid$" Value="IDSTemp" />
-      <CustomParameter Name = "SideWaffleNewProjNode" Value="CSharp\IdentityServer"/>
+      <CustomParameter Name = "$groupid$" Value="IdentityServerEFTemplate" />
+      <CustomParameter Name = "SideWaffleNewProjNode" Value="CSharp\IdentityServer\Id"/>
     </CustomParameters>
   </TemplateContent>
   <WizardExtension>

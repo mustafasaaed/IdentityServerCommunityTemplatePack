@@ -1,5 +1,5 @@
 {
-  "author": "Mustafa Saeed",
+  "author": "mustafasaeed",
   "classifications": [],
   "description": "This template help you start developing apps faster using Identity Server4 as your STS",
   "name": "IdentityServerEFTemplate",
@@ -10,8 +10,8 @@
     "language": "C#",
     "type": "project"
   },
-  "shortName": "IDSTemp",
-  "sourceName": "IDSTemp",
+  "shortName": "IdentityServerEFTemplate",
+  "sourceName": "IdentityServer",
   "guids": [],
   "primaryOutputs": [
     {
