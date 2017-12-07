@@ -3,8 +3,8 @@
   <TemplateData>
     <Name>IdentityServerEFTemplate</Name>
     <Description>This template help you start developing apps faster using Identity Server4 as your STS</Description>
-    <TemplateID>IdentityServerEFTemplate.CSharp</TemplateID>
-    <DefaultName>IdentityServerEFTemplate</DefaultName>
+    <TemplateID>IDTemplate.CSharp</TemplateID>
+    <DefaultName>IDTemplate</DefaultName>
     
     <Icon>project-icon.png</Icon>
     

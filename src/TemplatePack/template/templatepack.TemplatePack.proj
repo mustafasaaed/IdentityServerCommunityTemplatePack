@@ -42,6 +42,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ExcludeFromPackage Include="$(TemplateSourceRoot)TemplatePack/**/*" />
+</ItemGroup>
+    
+  <ItemGroup>
     <Content  Include="@(TemplateFiles)" 
               Exclude="@(ExcludeFromPackage)"
               PackagePath="Content/%(RecursiveDir)%(Filename)%(Extension)" />

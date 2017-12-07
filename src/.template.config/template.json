@@ -2,20 +2,20 @@
   "author": "mustafasaeed",
   "classifications": [],
   "description": "This template help you start developing apps faster using Identity Server4 as your STS",
-  "name": "IdentityServerEFTemplate",
-  "defaultName": "IdentityServerEFTemplate",
-  "identity": "IdentityServerEFTemplate.CSharp",
-  "groupIdentity": "IdentityServerEFTemplate",
+  "name": "IDTemplate",
+  "defaultName": "IDTemplate",
+  "identity": "IDTemplate.CSharp",
+  "groupIdentity": "IDTemplate",
   "tags": {
     "language": "C#",
     "type": "project"
   },
-  "shortName": "IdentityServerEFTemplate",
-  "sourceName": "IdentityServer",
+  "shortName": "IDTemplate",
+  "sourceName": "IDTemplate",
   "guids": [],
   "primaryOutputs": [
     {
-      "path": "IdentityServer\\IdentityServer.csproj"
+      "path": "IdentityServerWithAspNetIdentity\\IdentityServerWithAspNetIdentity.csproj"
     },
     {
       "path": "Api\\Api.csproj"
