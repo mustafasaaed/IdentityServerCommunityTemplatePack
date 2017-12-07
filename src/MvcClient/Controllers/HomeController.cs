@@ -25,8 +25,8 @@ namespace MvcClient.Controllers
 
         public async Task Logout()
         {
-            await HttpContext.Authentication.SignOutAsync("Cookies");
-            await HttpContext.Authentication.SignOutAsync("oidc");
+            await HttpContext.SignOutAsync("Cookies");
+            await HttpContext.SignOutAsync("oidc");
         }
 
         public IActionResult Error()
@@ -49,7 +49,7 @@ namespace MvcClient.Controllers
 
         public async Task<IActionResult> CallApiUsingUserAccessToken()
         {
-            var accessToken = await HttpContext.Authentication.GetTokenAsync("access_token");
+            var accessToken = await HttpContext.GetTokenAsync("access_token");
 
             var client = new HttpClient();
             client.SetBearerToken(accessToken);
